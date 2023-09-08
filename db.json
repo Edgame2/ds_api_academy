@@ -1,0 +1,65 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.",
+            "img": "/img/academy-01.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Test Post",
+            "author": "typicode",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <pre>Maecenas sollicitudin congue condimentum. Aenean quis velit ut neque malesuada eleifend et at eros.</pre> Nullam volutpat placerat velit, eu bibendum nunc tempor a. Cras consequat ultrices magna, nec tincidunt arcu fringilla in. Quisque a congue ligula. Quisque volutpat id orci ac ultrices. Duis sodales, felis a pharetra faucibus, purus risus vehicula nisl, dictum mattis magna tellus maximus felis. Sed est eros, ornare mollis augue eu, rutrum ullamcorper nunc. Donec eget lobortis quam, sit amet malesuada metus.Donec ut nibh fringilla, mattis erat imperdiet, dictum arcu. Duis pretium ultricies euismod. Nulla facilisi.</p> <p> Morbi pretium enim a sodales elementum. Mauris et semper lorem. Sed porta gravida ex. Pellentesque rutrum velit dui, eget posuere nisl rutrum vel. Cras sit amet turpis turpis. Maecenas faucibus, elit eget porta aliquet, elit ipsum aliquet elit, non maximus ex urna ac purus. Nam vitae lectus et metus semper facilisis. Quisque pulvinar mattis augue nec aliquet. In volutpat pharetra sagittis. Nunc ut erat ut velit auctor molestie at eu eros. Donec lobortis neque velit, at ornare diam dapibus a. Integer ultrices aliquet suscipit.Nullam sapien augue, elementum ut tempor ut, scelerisque quis risus. Suspendisse ac faucibus lorem. Vestibulum pellentesque blandit facilisis. Aenean sit amet feugiat felis, sit amet egestas ligula. Sed at mi non justo scelerisque semper ut at arcu. Maecenas condimentum auctor convallis. Mauris ac porttitor est, ut viverra ipsum. Donec aliquet tincidunt odio, a consequat mi volutpat eu.</p> <p> Ut ultricies arcu pellentesque lacus mollis auctor.Nullam lacinia malesuada massa ac gravida. Vivamus lacinia sapien rhoncus, bibendum nibh sit amet, viverra est. Pellentesque euismod lectus et urna pretium, vitae pharetra enim aliquam. Maecenas sed gravida leo. Ut imperdiet at sem in tincidunt. Aliquam blandit, leo eget bibendum posuere, neque urna tempor mauris, eget pellentesque est mauris sit amet nibh. Duis tincidunt mauris eget odio pellentesque, ac facilisis urna viverra.</p> <h2>Subtitle</h2><p> Vivamus pharetra eros at convallis elementum. In ut arcu viverra, ornare risus a, vestibulum risus. Praesent lacus libero, mattis vitae eros non, congue posuere ante. </p> <p> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla mollis vestibulum volutpat. Curabitur molestie et quam nec fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus facilisis, erat eget pretium tincidunt, mi ante condimentum eros, sit amet euismod eros diam sit amet ipsum.Integer blandit dui eu libero consequat cursus. Donec rhoncus nibh pharetra risus elementum, a eleifend est cursus. Morbi vel placerat libero, sit amet ultricies nisi. Cras nec lacus commodo, blandit sapien fermentum, tempor nulla. Donec dictum luctus tempor. Pellentesque in pretium ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer dui sem, suscipit vitae elementum vitae, aliquam sed ligula.</p>",
+            "img": "/img/academy-02.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mon super Posts",
+            "author": "typicode",
+            "img": "/img/academy-03.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mon super Posts",
+            "author": "typicode",
+            "img": "/img/academy-04.jpg"
+        },
+        {
+            "id": 5,
+            "title": "json-server",
+            "author": "typicode",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.",
+            "img": "/img/academy-01.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Mon super Posts",
+            "author": "typicode",
+            "img": "/img/academy-02.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mon super Posts",
+            "author": "typicode",
+            "img": "/img/academy-03.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Mon super Posts",
+            "author": "typicode",
+            "img": "/img/academy-04.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
